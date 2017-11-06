@@ -45,7 +45,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-11-06T15:00:02</gco:DateTime>
+        <gco:DateTime>2017-11-06T15:30:02</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -126,7 +126,8 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The principal component (PC)-based indices of the North Atlantic Oscillation (NAO) are the time series of the leading Empirical Orthogonal Function (EOF) of SLP anomalies over the Atlantic sector, 20°-80°N, 90°W-40°E. These indices are used to measure the NAO throughout the year, tracking the seasonal movements of the Icelandic low and Azores high. These movements are illustrated in the Figures on this page. Positive values of the NAO index are typically associated with stronger-than-average westerlies over the middle latitudes, more intense weather systems over the North Atlantic and wetter/milder weather over western Europe.  </gco:CharacterString>
+                <gco:CharacterString>The principal component (PC)-based indices of the North Atlantic Oscillation (NAO) are the time series of the leading Empirical Orthogonal Function (EOF) of SLP anomalies over the Atlantic sector, 20°-80°N, 90°W-40°E. These indices are used to measure the NAO throughout the year, tracking the seasonal movements of the Icelandic low and Azores high.  
+                    Positive values of the NAO index are typically associated with stronger-than-average westerlies over the middle latitudes, more intense weather systems over the North Atlantic and wetter/milder weather over western Europe.  </gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode

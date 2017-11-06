@@ -45,7 +45,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-11-06T15:30:44</gco:DateTime>
+        <gco:DateTime>2017-11-06T15:39:44</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -126,7 +126,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The NAM (or Arctic Oscillation) is defined as the first EOF of NH (20°-90°N) winter SLP data. It explains 23% of the extended winter mean (December-March) variance, and it is clearly dominated by the NAO structure in the Atlantic sector. Although there are some subtle differences from the NAO regional pattern over the Atlantic and Arctic (see Figure 1 below), the main difference is larger amplitude anomalies over the North Pacific of the same sign as those over the Atlantic. This feature gives the NAM a more annular (or zonally-symmetric) structure. Positive values of the NAM are associated with lower-than-normal sea level pressures over the Arctic and westerly wind anomalies along ~55º-60ºN.  </gco:CharacterString>
+                <gco:CharacterString>The NAM (or Arctic Oscillation) is defined as the first EOF of NH (20°-90°N) winter SLP data. It explains 23% of the extended winter mean (December-March) variance, and it is clearly dominated by the NAO structure in the Atlantic sector. Although there are some subtle differences from the NAO regional pattern over the Atlantic and Arctic, the main difference is larger amplitude anomalies over the North Pacific of the same sign as those over the Atlantic. This feature gives the NAM a more annular (or zonally-symmetric) structure. Positive values of the NAM are associated with lower-than-normal sea level pressures over the Arctic and westerly wind anomalies along ~55º-60ºN.  </gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode

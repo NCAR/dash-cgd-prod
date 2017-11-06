@@ -82,7 +82,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Hurrell North Atlantic Oscillation (NAO) Index (PC-Based)</gco:CharacterString>
+                        <gco:CharacterString>Hurrell Wintertime SLP-based Northern Annular Mode (NAM) Index</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>

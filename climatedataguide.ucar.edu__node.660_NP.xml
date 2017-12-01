@@ -45,7 +45,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2017-11-06T15:00:01</gco:DateTime>
+        <gco:DateTime>2017-12-01T12:00:01</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -54,7 +54,7 @@
         <gco:CharacterString>ISO19115:2003/Cor 1 2006</gco:CharacterString>
     </gmd:metadataStandardVersion>
     <gmd:dataSetURI>
-        <gco:CharacterString>https://climatedataguide.ucar.edu/node/658</gco:CharacterString>
+        <gco:CharacterString>https://climatedataguide.ucar.edu/node/660</gco:CharacterString>
     </gmd:dataSetURI>
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>

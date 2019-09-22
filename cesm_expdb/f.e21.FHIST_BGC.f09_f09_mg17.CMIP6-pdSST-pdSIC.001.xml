@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/piofs/var/www/html/expdb2.0/dset-JSON-to-ISO19139/dset2iso.py", line 87, in <module>
+    jsonData = dset_input.getJSONData(inputText)
+  File "/piofs/var/www/html/expdb2.0/dset-JSON-to-ISO19139/api/inputjson.py", line 13, in getJSONData
+    jsonData = json.loads(jsonText)
+  File "/usr/lib64/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Invalid control character at: line 73 column 65 (char 5854)

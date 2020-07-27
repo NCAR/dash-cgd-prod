@@ -14,7 +14,7 @@ https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.
 
 ## CGD Completeness Graph
 
-![CGD Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/CDG/barcharts/cgd.png)
+![CGD Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/CGD/barcharts/cgd.png)
 
 ## Publisher Information
 

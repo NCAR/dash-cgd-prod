@@ -14,7 +14,7 @@ https://www.ncei.noaa.gov/sites/default/files/2020-04/ISO%2019115-2%20Workbook_P
 
 ## CGD Completeness Graph
 
-![CGD Completeness Graph](https://raw.githubusercontent.com/NCAR/dash-eol-prod/master/actions/All/barcharts/cgd.png)
+![CGD Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/All/barcharts/cgd.png)
 
 ## Publisher Information
 
